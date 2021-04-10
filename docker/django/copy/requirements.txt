@@ -1,0 +1,12 @@
+#pip install -r requirements.txt
+#
+Django
+djangorestframework
+markdown
+django-filter
+django-rest-framework
+sqlalchemy_utils
+psycopg2-binary
+influxdb
+alchemy
+#psycopg2
