@@ -15,8 +15,9 @@
 #Suspense Organized Crime      ;                  ;;SuspenseWildlifePreserveOrganizedCrime/
 #TheKronos Geospatial          ;                  ;;TheKronosIncidentGeospatial/
 #TheKronos Kidnapping          ;                  ;;TheKronosIncidentTheKidnapping/
-#facial_recognition            ;                  ;;facial_recognition/
 #find-fa-icon                  ;                  ;;find-fa-icon/                                                                    
+
+#facial_recognition            ;<i class="fa fa-check" style="color:red"></i> ;;facial_recognition/
 
 ---
 <br/>
