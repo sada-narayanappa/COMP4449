@@ -1,0 +1,11 @@
+{
+    "base": "/opt/data//uploaded/",
+    "csrfmiddlewaretoken": "Bsi8aK7NHsS9r8XABz5YflRQ1t0BfbcYSgEaoDZL3etaqRj0QCKtposd8gtPKlz4",
+    "X-CSRFToken": "Bsi8aK7NHsS9r8XABz5YflRQ1t0BfbcYSgEaoDZL3etaqRj0QCKtposd8gtPKlz4",
+    "auth": "uwmwd2iz6mvje4005k6losqmtfg0vclm",
+    "user": "sada.narayanappa",
+    "contents": "/opt/data//capstone/capstone/stock_prediction1//README.md",
+    "public": "true",
+    "collaborators": "Collaborators: N/A ",
+    "files": []
+}
