@@ -1,5 +1,6 @@
 #facial_recognition         ;<i class="fa fa-check" style="color:red"></i> ;;facial_recognition/
 #stock_prediction           ;<i class="fa fa-check" style="color:red"></i> ;;stock_prediction1/
+#Pubic Space exploration    ;<i class="fa fa-check" style="color:red"></i> ;;space_telem/
 
 ---
 
