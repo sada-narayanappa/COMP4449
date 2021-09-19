@@ -10,10 +10,11 @@ You are welcome to find resources to get the hourly or 10 minutes stock prices a
 Next, for term project, use the news data you downloaded in the previous step and create predictive analytics (I encourage you to explore LSTM networks) to predict the price.
 
 
-### Data  ** **
+### Data  **[zip](https://github.com/sada-narayanappa/COMP4449/blob/master/capstone/stock_prediction1/data/stock_price/data.zip) **
 
-* [stock_prediction1/01_GetData.ipynb](stock_prediction1/01_GetData.ipynb)
+* [stock_prediction1/01_GetData.ipynb](https://github.com/sada-narayanappa/COMP4449/blob/master/capstone/stock_prediction1/01_GetData.ipynb)
 
+* [view data files](https://github.com/sada-narayanappa/COMP4449/tree/master/capstone/stock_prediction1/data/stock_price)
 
 * Data Sources: Traders Only Web site: https://www.tradersonly.com/about/
 
