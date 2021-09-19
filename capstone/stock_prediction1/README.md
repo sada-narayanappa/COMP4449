@@ -9,6 +9,7 @@ You are welcome to find resources to get the hourly or 10 minutes stock prices a
 
 Next, for term project, use the news data you downloaded in the previous step and create predictive analytics (I encourage you to explore LSTM networks) to predict the price.
 
+You may use [Tutorial on LSTM Link](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/) to learn about LSTM.
 
 ### Data  **[zip](https://github.com/sada-narayanappa/COMP4449/blob/master/capstone/stock_prediction1/data/stock_price/data.zip) **
 

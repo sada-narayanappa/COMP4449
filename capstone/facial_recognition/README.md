@@ -1,0 +1,3 @@
+#Facial Recognition
+
+Facial Recognition has been a very hot topic since early 2000s. While most people are similar with Facial Recognition through their phone recognizing them or Facebook and Google auto tagging themselves and their friends and family in photos uploaded to the service, facial recognition has been growing in law enforcement. We have truly gone from TV shows and movies depicting computers matching individuals as science fiction to this technology being used on a daily basis at multiple agencies in government. 
