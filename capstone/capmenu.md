@@ -1,6 +1,7 @@
 #facial_recognition         ;<i class="fa fa-check" style="color:red"></i> ;;facial_recognition/
 #stock_prediction           ;<i class="fa fa-check" style="color:red"></i> ;;stock_prediction1/
 #Satellite Anomaly          ;<i class="fa fa-check" style="color:red"></i> ;;space_telem/
+#Finance-Forecast           ;<i class="fa fa-check" style="color:red"></i> ;;finance_forecast/
 
 ---
 
