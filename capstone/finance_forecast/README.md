@@ -84,8 +84,7 @@ By embarking on this project, your team aims to contribute to the field of finan
 
 
 ---------------
-You may use [Tutorial on LSTM
-Link](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/) to learn about LSTM.
+You may use [Tutorial on LSTM Link](https://machinelearningmastery.com/how-to-develop-lstm-models-for-time-series-forecasting/) to learn about LSTM.
 
 ### Data
 
